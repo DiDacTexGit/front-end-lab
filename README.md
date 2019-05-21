@@ -14,7 +14,7 @@ All events are scheduled via our [Meetup](https://www.meetup.com/Dayton-Code-Tog
 
 ## What if I'm a first timer that's never coded before?
 
-Check out our Guide to [front end for first timers](./front-end-lab/blob/master/first-timers-guides/first_timers_guide.md), that also contains information on how to learn about coding. Go through the recommended resources and ask lots of questions!
+Check out our Guide to [front end for first timers](https://github.com/dytcodetogether/front-end-lab/blob/master/first-timers-guides/first_timers_guide.md), that also contains information on how to learn about coding. Go through the recommended resources and ask lots of questions!
 
 ## What if I'm a web development pro?
 
