@@ -1,0 +1,1 @@
+This community  was inspired by the Women Who Code DC [front end community](https://github.com/womenwhocodedc/front-end-community). Huge thanks to this group for putting together a great list of resources!
